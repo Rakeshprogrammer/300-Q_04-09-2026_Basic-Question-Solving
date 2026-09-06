@@ -1,5 +1,6 @@
 //Question 10: Take a month number (1-12) and 
-// print the number of days in that month (ignore leap years). 
+// print the number of days in that month (ignore leap years).
+// "Fall-through concept"  
 
 public class Main20{
     public static void main(String args[]){
@@ -27,7 +28,7 @@ public class Main20{
                 break;
             
             default:
-                System.out.println("Invalid Number Choosen");
+                System.out.println("Invalid Number Chosen");
         }
         
     }
