@@ -2,7 +2,7 @@
 echo "# 300-Q_04-09-2026_Basic-Question-Solving" >> README.md
 
 git init
-git add README.md
+git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Rakeshprogrammer/300-Q_04-09-2026_Basic-Question-Solving.git
