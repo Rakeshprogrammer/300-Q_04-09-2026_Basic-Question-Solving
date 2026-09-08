@@ -4,8 +4,9 @@
 public class Main24{
     public static void main(String args[]){
         int number = -100;
+
         if(number<0){
-            number = (number * -1);
+            number = (number * -1); //-tive number nahi chiye
         }
 
         if(number < 10){

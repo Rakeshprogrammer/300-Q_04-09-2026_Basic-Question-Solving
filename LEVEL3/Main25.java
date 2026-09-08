@@ -2,7 +2,11 @@
 
 public class Main25{
     public static void main(String args[]){
-        int number = 7007;
+        int number = -1000777; //absoulte value kar na padega, negavtive ko postive kar na padega.  
+        if(number<0){
+            number = number * (-1);
+        }
+        
         if(number%7==0 || number%10==7){
             System.out.println("number is a multiple of 7 or ends with 7.");
         }else{
