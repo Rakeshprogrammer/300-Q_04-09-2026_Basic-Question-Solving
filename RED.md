@@ -14,3 +14,4 @@ git remote add origin https://github.com/Rakeshprogrammer/300-Q_04-09-2026_Basic
 
 git branch -M main
 git push -u origin main
+git push -f origin main
