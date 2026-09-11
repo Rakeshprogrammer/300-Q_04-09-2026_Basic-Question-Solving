@@ -34,12 +34,12 @@ public class Main37{
             System.out.println("Seven");
         }
 
-        else if(num==7){
-            System.out.println("eight");
+        else if(num==8){
+            System.out.println("Eight");
         }
 
-        else if(num==7){
-            System.out.println("nice");
+        else if(num==9){
+            System.out.println("Nine");
         }
 
         else{
@@ -76,15 +76,15 @@ public class Main37{
                  break;
 
             case 8:
-                System.out.println("egint");
+                System.out.println("Eight");
                  break;
 
             case 9 :
-                System.out.println("night");
+                System.out.println("Nine");
                  break;
 
             default :
-            System.out.println("Digit not vlaid");
+            System.out.println("Digit not Invalid");
             
         }
 
