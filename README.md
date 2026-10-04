@@ -8,7 +8,7 @@ I’m starting from the basics and solving these questions **level by level**, f
 
 ---
 
-## 🎯 Purpose of This Repository
+
 
 The main goal of this repository is to:
 
